@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/audio_attack.MP3</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/audio_button.MP3</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/audio_death.MP3</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/audio_door_closed.MP3</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/audio_door_opened.MP3</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/audio_ladder.MP3</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/audio_steps1.MP3</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/audio_steps2.MP3</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/blur.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_back.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_go_pressed.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_go.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_ladder_pressed.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_ladder.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_left_pressed.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_left.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_pause.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_pick_pressed.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_pick.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_right_pressed.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_right.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_rules.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/button_start.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/File.spritefont</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim1_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim1.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim10_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim10.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim2_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim2.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim3_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim3.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim4_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim4.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim5_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim5.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim6_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim6.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim7_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim7.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim8_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim8.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim9_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_anim9.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_attack1_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_attack1.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_attack2_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_attack2.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_attack3_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_attack3.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_attack4_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_attack4.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_static_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/ghost_static.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/item_background.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/key1.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/key2.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/life.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/main_menu_lose.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/main_menu_win.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/main_menu.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/map.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/menu_rules.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_anim_1.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_anim_1rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_anim_2.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_anim_2rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_anim_3.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_anim_3rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going1.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going1rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going2.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going2rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going3.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going3rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going4.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going4rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going5.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going5rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going6.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_going6rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_jump1rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_jump2rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_ladder2.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_ladder3.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_staying_rev.png</File>
+    <File>D:/projects/C#/AndroidGame/AndroidGame/Content/player_staying.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

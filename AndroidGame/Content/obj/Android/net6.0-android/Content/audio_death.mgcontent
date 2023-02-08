@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/projects/C#/AndroidGame/AndroidGame/Content/audio_death.MP3</SourceFile>
+  <SourceTime>2022-12-29T12:44:27.663091+03:00</SourceTime>
+  <DestFile>D:/projects/C#/AndroidGame/AndroidGame/Content/bin/Android/Content/audio_death.xnb</DestFile>
+  <DestTime>2022-12-29T12:49:59.6314517+03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T11:44:56+03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T11:44:56+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
